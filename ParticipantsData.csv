@@ -1,0 +1,35 @@
+﻿ID,Age,Sex,Weight,Height,Education_Level,Exercise_Behavior,Smoking_Behavior,UD_HighBloodPress,UD_HighCholesterol,UD_Diabetes,UD_MuscleWeakness,UD_Stroke,UD_CoronaryArtery,UD_AtrialFibrillation,UD_PeripheralArtery,UD_HeartDisease,UD_KidneyDisease,Depression,BADL,MOCA_Total,MOCA_Risk,Fall_History,Specialist 1,Specialist 2,Specialist 3,Specialist_Conclusion,TUG_Risk,Time R1 (sec.),Time R2 (sec.),Time R3 (sec.),Average (sec.)
+ps01,61,Female,64,148,Master,3,0,1,1,0,0,0,0,0,0,0,0,0,20,20,1,1,Non-Risk,Risk,Risk,Non-Risk,Risk,17.06,12.78,11.63,13.82333333
+ps02,63,Male,56,170,High School,7,0,0,0,0,1,0,0,0,0,1,0,0,20,20,1,1,Risk,Non-Risk,Risk,Risk,Risk,18.45,12.98,11.81,14.41333333
+ps03,68,Male,70,168,High School,2,0,1,0,0,0,0,0,0,0,0,0,0,20,23,1,0,Non-Risk,Non-Risk,Risk,Non-Risk,Risk,13.73,14.03,14.75,14.17
+ps04,65,Female,59,156,Master,3,0,0,0,0,0,0,0,0,0,0,0,0,20,24,1,1,Risk,Non-Risk,Non-Risk,Risk,Risk,14.52,11.98,12.46,12.98666667
+ps05,63,Female,64,166,Bachelor,3,0,0,1,0,0,0,0,0,0,0,0,0,20,27,0,0,Non-Risk,Non-Risk,Non-Risk,Non-Risk,Non-Risk,11.76,10.46,10.81,11.01
+ps06,64,Female,55,145,Bachelor,3,0,1,1,0,0,0,0,0,0,0,0,0,20,25,1,0,Non-Risk,Non-Risk,Non-Risk,Non-Risk,Risk,13.92,11.71,11.48,12.37
+ps07,64,Female,56,150,Master,7,0,0,0,0,0,0,0,0,0,0,0,0,20,22,1,1,Non-Risk,Non-Risk,Risk,Non-Risk,Non-Risk,11.49,11.19,12.22,11.63333333
+ps08,62,Male,73,174,High School,0,0,0,0,1,0,0,0,0,0,0,0,0,20,28,0,0,Risk,Non-Risk,Risk,Risk,Risk,12.36,12.52,12.69,12.52333333
+ps09,65,Female,52,152,Master,3,0,0,0,0,0,1,0,0,0,0,0,0,20,23,1,0,Non-Risk,Non-Risk,Non-Risk,Non-Risk,Risk,14.8,13.97,15.63,14.8
+ps10,65,Male,75,167,Ph.D.,3,0,1,0,0,0,0,0,0,0,0,0,0,20,22,1,1,Risk,Non-Risk,Risk,Risk,Risk,12.77,12.45,13.21,12.81
+ps11,63,Female,41,159,Bachelor,1,0,0,1,0,0,0,0,0,0,0,0,0,20,28,0,1,Non-Risk,Risk,Risk,Non-Risk,Non-Risk,9.48,9.5,9.99,9.656666667
+ps12,62,Male,66,170,Master,4,0,1,1,0,0,0,0,0,0,0,0,0,20,25,1,0,Non-Risk,Non-Risk,Risk,Non-Risk,Risk,12.33,12.13,11.59,12.01666667
+ps13,63,Female,44,151,Master,0,0,1,1,0,0,0,0,0,0,0,0,0,20,24,1,1,Risk,Non-Risk,Risk,Risk,Non-Risk,12.38,10.01,10.3,10.89666667
+ps14,63,Female,65,155,Bachelor,0,0,1,0,0,0,0,0,0,0,0,0,0,20,30,0,0,Risk,Risk,Risk,Risk,Non-Risk,14.45,12.01,9.3,11.92
+ps15,63,Female,59,151,High School,2,0,1,0,1,0,0,0,0,0,0,0,0,20,26,0,1,Non-Risk,Risk,Non-Risk,Non-Risk,Non-Risk,13.04,11.4,10.89,11.77666667
+ps16,68,Male,70,164,Bachelor,0,0,0,0,0,0,0,0,0,0,0,0,0,20,26,0,1,Risk,Risk,Risk,Risk,Risk,15.8,14.76,13.21,14.59
+ps17,66,Female,55,153,High School,4,0,0,0,0,0,0,0,0,0,0,0,0,20,30,0,0,Non-Risk,Non-Risk,Non-Risk,Non-Risk,Non-Risk,10.42,9.92,9.86,10.06666667
+ps18,65,Male,62,164,Primary School,7,0,0,0,0,0,0,0,0,0,0,0,0,20,24,1,0,Risk,Risk,Risk,Risk,Risk,15.7,12.99,13.29,13.99333333
+ps19,64,Female,60,157,Bachelor,2,0,1,0,0,0,0,0,0,0,0,0,0,20,30,0,0,Non-Risk,Risk,Non-Risk,Non-Risk,Non-Risk,12.46,11.14,10.48,11.36
+ps20,64,Male,75,162,Bachelor,2,0,0,0,0,0,0,0,0,0,0,0,0,20,23,1,0,Non-Risk,Non-Risk,Risk,Non-Risk,Non-Risk,11.06,10.27,10.07,10.46666667
+ps21,66,Female,55,163,Bachelor,7,0,0,0,0,0,0,0,0,0,0,0,0,20,26,0,1,Risk,Non-Risk,Non-Risk,Risk,Non-Risk,11.93,9.36,9.08,10.12333333
+ps22,63,Female,59,159,High School,7,0,1,1,0,0,0,0,0,0,0,0,0,20,27,0,0,Non-Risk,Non-Risk,Non-Risk,Non-Risk,Non-Risk,10.67,10.15,9.89,10.23666667
+ps23,67,Male,53,160,High School,7,0,1,0,1,0,0,0,0,0,0,0,0,20,19,1,0,Non-Risk,Non-Risk,Non-Risk,Non-Risk,Non-Risk,11.9,11.51,11.13,11.51333333
+ps24,62,Male,69,171,High School,5,0,0,0,0,0,0,0,0,0,0,0,0,20,27,0,0,Risk,Non-Risk,Non-Risk,Non-Risk,Non-Risk,12.02,10.28,10.2,10.83333333
+ps25,60,Male,83,171,High School,7,0,1,0,0,0,0,0,0,0,0,0,0,20,27,0,1,Risk,Non-Risk,Risk,Non-Risk,Non-Risk,12.8,11.18,10.45,11.47666667
+ps26,69,Male,69,170,High School,7,0,1,0,0,0,0,0,0,0,0,0,0,20,25,1,0,Risk,Risk,Risk,Risk,Non-Risk,12.81,10.92,9.88,11.20333333
+ps27,62,Male,65,153,Bachelor,7,0,0,0,0,0,0,0,0,0,0,0,0,20,25,1,1,Non-Risk,Risk,Non-Risk,Non-Risk,Risk,16.24,15.51,13.65,15.13333333
+ps28,63,Female,57,157,High School,7,0,0,0,0,0,0,0,0,0,0,0,0,20,29,0,1,Non-Risk,Non-Risk,Risk,Non-Risk,Non-Risk,12.87,11.26,11.01,11.71333333
+ps29,65,Female,47,154,Master,3,0,0,1,0,0,0,0,0,0,0,0,0,20,29,0,1,Non-Risk,Non-Risk,Non-Risk,Non-Risk,Non-Risk,10.82,11.02,9.88,10.57333333
+ps30,65,Male,52,165,Bachelor,0,0,0,0,0,0,0,0,0,0,0,0,0,20,28,0,1,Risk,Risk,Risk,Risk,Risk,15.08,14.07,11.44,13.53
+ps31,62,Female,59,150,Ph.D.,0,0,1,1,0,0,0,0,0,0,0,0,0,20,27,0,1,Non-Risk,Non-Risk,Risk,Non-Risk,Non-Risk,8.54,8.66,8.96,8.72
+ps32,64,Female,52,150,High School,3,0,0,0,0,0,0,0,0,0,0,0,0,20,28,0,1,Risk,Non-Risk,Non-Risk,Risk,Risk,13.38,12.46,10.83,12.22333333
+ps33,62,Male,61,170,High School,7,1,0,0,0,0,0,0,0,0,0,0,0,20,18,1,0,Risk,Non-Risk,Non-Risk,Risk,Non-Risk,9.59,9.04,8.66,9.096666667
+ps34,65,Male,90,165,High School,7,0,0,0,0,0,0,0,0,0,0,0,0,20,20,1,1,Risk,Non-Risk,Risk,Non-Risk,Risk,17.85,14.08,13.05,14.99333333
