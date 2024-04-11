@@ -1,0 +1,34 @@
+The description of a data record of the .csv file in the Participants_Information folder.
+
+ID			: ID of participant (ps01 to ps34)
+Age			: Age of participant
+Sex			: Sex of participant (Male / Female)
+Weight			: Weight of participant (kg)
+Height			: Height of participant (cm)
+Education_Level		: Education level of participant (High School - PhD)
+Exercise_Behavior	: Number of days in the week that participants exercised
+Smoking_Behavior	: Participants had smoking habits (0 = No / 1 = Yes)
+UD_HighBloodPress	: Participant's history of Hypertension (0 = No / 1 = Yes)
+UD_HighCholesterol	: Participant's history of Dyslipidemia (0 = No / 1 = Yes)
+UD_Diabetes		: Participant's history of Diabetes (0 = No / 1 = Yes)
+UD_MuscleWeakness	: Participant's history of Myasthenia Gravis (0 = No / 1 = Yes)
+UD_Stroke		: Participant's history of Stroke (0 = No / 1 = Yes)
+UD_CoronaryArtery	: Participant's history of Coronary Artery disease (0 = No / 1 = Yes)
+UD_AtrialFibrillation	: Participant's history of Atrial Fibrillation disease (0 = No / 1 = Yes)
+UD_PeripheralArtery	: Participant's history of Peripheral Artery disease (0 = No / 1 = Yes)
+UD_HeartDisease		: Participant's history of Heart disease (0 = No / 1 = Yes)
+UD_KidneyDisease	: Participant's history of Kidney disease (0 = No / 1 = Yes)
+Depression		: Participant's history of Depression (0 = No / 1 = Yes)
+BADL			: Participants's BADL score
+MOCA_Total		: Participants's MOCA score
+MOCA_Risk		: Interpretation of MOCA score (0 = Non-risk / 1 = Risk)
+Fall_History		: Participant's history of falls in the past year (0 = No / 1 = Yes)
+Specialist 1 		: Observation result from first specialist during participant perform TUG
+Specialist 2 		: Observation result from second specialist during participant perform TUG
+Specialist 3 		: Observation result from third specialist during participant perform TUG
+Specialist_Conclusion	: The average of observation result from three specialist
+TUG_Risk		: TUG result of participant
+Time R1 (sec.)		: Duration of participant take the first round of the TUG test
+Time R2 (sec.)		: Duration of participant take the second round of the TUG test
+Time R3 (sec.)		: Duration of participant take the third round of the TUG test
+Average (sec.)		: The average of TUG test duration 
